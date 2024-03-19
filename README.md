@@ -2,7 +2,9 @@
 
 DECODEBLOCK :-
 
-'We are a web3 education platform providing education through code-writing and solving the second largest crisis in the blockchain market'
+'We are a web3 education platform providing education through
+code-writing and solving the second-largest crisis
+in the blockchain market'
 
 ```
 We are solving the Essential Crisis in the Blockchain Industry (ie. Skill GAP) through interactive learning, theme-based real-world coding challenges, and Exciting Contests and Project Collaboration through our Community. We are the only company providing a first-hand online judging resource for blockchain education and providing incentives to developers through our inbuilt token economics.
